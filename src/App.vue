@@ -1,22 +1,15 @@
 <script>
-import VueLighthouseViewer from 'vue-lighthouse-viewer';
+import VueLighthouseViewer from './components/lighthouse-viewer/main';
+import reportJson from '../public/report.json'
 
 export default {
+  components: {
+    VueLighthouseViewer
+  },
   data() {
     return {
-      json: '',
+      json: reportJson,
     };
-  },
-  mounted() {
-    this.getReport();
-  },
-  methods: {
-    async getReport() {
-      import('../report.json').then(data => {
-        console.log(data)
-        this.json = data;
-      })
-    },
   },
 };
 </script>

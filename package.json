@@ -9,8 +9,7 @@
   },
   "dependencies": {
     "lighthouse-viewer": "^0.1.64",
-    "vue": "^3.2.25",
-    "vue-lighthouse-viewer": "^0.1.64"
+    "vue": "^3.2.25"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.2.0",
