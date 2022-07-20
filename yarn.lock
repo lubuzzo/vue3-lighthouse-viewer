@@ -256,10 +256,10 @@ is-core-module@^2.8.1:
   dependencies:
     has "^1.0.3"
 
-lighthouse-viewer@^0.1.68:
-  version "0.1.68"
-  resolved "https://registry.yarnpkg.com/lighthouse-viewer/-/lighthouse-viewer-0.1.68.tgz#18be6c57ae49d19d8816417ee69f0fd87df49803"
-  integrity sha512-ffnTsVYtadTiOeboEiCbwHi0YbQWyku1UkGYTkOXtF3QoAYtH+01OoC+lGw29hV9iXQA2e2t7WjpdH5ot6WhGw==
+lighthouse-viewer@^0.1.141:
+  version "0.1.141"
+  resolved "https://registry.yarnpkg.com/lighthouse-viewer/-/lighthouse-viewer-0.1.141.tgz#8643a72c7008f678f6f4f6f11fcb85a24553f597"
+  integrity sha512-YAlQIW0COEV357Jq3yTAyQpKGuql+FnUvUxyCLFj37dYuH1Ec+ff1NNyGtY9WDKwCXyQn1gvHI3Im+1MxpT23Q==
 
 magic-string@^0.25.7:
   version "0.25.7"
