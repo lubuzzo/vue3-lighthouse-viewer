@@ -8,7 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "lighthouse-viewer": "^0.1.68",
+    "lighthouse-viewer": "^0.1.162",
     "vue": "^3.2.31"
   },
   "devDependencies": {
